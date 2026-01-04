@@ -1,37 +1,48 @@
 # Basic HTML Structure
 
-This project contains a simple HTML file that demonstrates the basic
-structure of a web page.
+This project demonstrates a simple and beginner-friendly HTML file.
+It explains the basic structure of an HTML document and the purpose of
+common tags.
 
 ## Files Included
 
 - `index.html`  
-  A basic HTML document with standard tags.
+  Contains the basic HTML structure with comments explaining each part.
 
-## HTML Overview
+## HTML Structure Explained
 
-An HTML page is mainly divided into two sections:
+- `<!DOCTYPE html>`  
+  Declares the document as HTML5.
 
-- **Head section**  
-  Contains page information like title and meta settings.
+- `<html>`  
+  The root element that wraps the entire webpage.
 
-- **Body section**  
-  Contains the visible content shown in the browser.
+- `<head>`  
+  Contains meta information such as character encoding, page title,
+  and viewport settings.
 
-## How to Use
+- `<title>`  
+  Sets the name shown on the browser tab.
 
-1. Create a file named `index.html`.
-2. Copy the HTML code into the file.
-3. Open the file in any web browser.
+- `<body>`  
+  Contains all visible content like text, headings, and images.
 
-## Purpose
+## How to Run the Project
 
-This project is intended for beginners who are learning HTML and want
-to understand how a basic webpage is structured.
+1. Download or create the `index.html` file.
+2. Open the file using any web browser (Chrome, Edge, Firefox, etc.).
+3. You will see the webpage content displayed.
+
+## Who This Is For
+
+This project is ideal for:
+- Beginners learning HTML
+- Students practicing basic web development
+- Anyone wanting a quick HTML reference
 
 ## Next Steps
 
-You can improve this project by:
-- Adding CSS for styling
-- Adding JavaScript for interactivity
-- Creating multiple pages and linking them
+Once you understand this structure, you can:
+- Add CSS for styling
+- Add JavaScript for interactivity
+- Create more pages and link them together
