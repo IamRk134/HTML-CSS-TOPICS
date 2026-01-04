@@ -11,7 +11,9 @@ Each folder covers a specific HTML concept with clean, simple, and well-document
 4. Lists
 5. Tables
 6. Forms
-7. Semantic HTML
+7. Multimedia 
+8. Semantic HTML
+9. meta 
 
 ## 🎯 Purpose
 - Learn HTML step by step
